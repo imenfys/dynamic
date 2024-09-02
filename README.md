@@ -1,0 +1,2 @@
+# dynamic
+ChatGPT Plus中的Dynamic模式是什么？Dynamic模式在ChatGPT中的作用
